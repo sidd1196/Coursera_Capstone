@@ -1,2 +1,2 @@
 # Coursera Capstone
-Download the jupyter notebook and run it in the anaconda navigator.
+Download the jupyter notebook.
